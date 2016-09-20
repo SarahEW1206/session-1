@@ -1,6 +1,8 @@
 #MEAN Session One
 
-Base CSS
+Read of the day: [Why Learning Angular Two was Excrutiating](https://hackernoon.com/why-learning-angular-2-was-excruciating-d50dc28acc8a#.9px57nno9)
+
+##Base CSS
 
 box model - `box-sizing: border-box;`
 
