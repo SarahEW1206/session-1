@@ -282,21 +282,20 @@ padding: $padding*3 0;
 } 
 ```
 
-##Homework
+##Google font
 
-1. Improve the look and feel (e.g. 'design') of the existing page for both large and small screens using SASS (use rounded corners, Google fonts, color, etc.).
-1. Create a second html recipe page that you can navigate to. The navigation should indicate which section you are in. 
-1. Use a [schema](http://schema.org/Recipe) to mark up this data. 
-1. Buy texts, open a Github account, install node on your laptop
-
-###TBD
-* modernizr
-http://www.colorzilla.com/gradient-editor/ 
-* GIT
-* Google Font
 ```
 @import url('http://fonts.googleapis.com/css?family=Lato:300,400,700');
 $font-family: 'Lato', sans-serif;
 ```
 
+##Homework
+
+1. Improve the look and feel (e.g. 'design') of the existing page for both large and small screens using SASS (use rounded corners, Google fonts, color, etc.).
+1. Create a second html recipe page that you can navigate to. The nav bar should indicate which section you are in using color. 
+1. Use a [schema](http://schema.org/Recipe) to mark up this data. 
+1. Buy texts, open a Github account, install node on your laptop
+
+###TBD
+* modernizr `http://www.colorzilla.com/gradient-editor/ `
 * GIT and Github
