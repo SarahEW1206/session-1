@@ -114,8 +114,9 @@ Try:
 
 Then try implementing mobile first in CSS by making the default CSS work for small screens and the media queries work for large screen.
 
-Stack Overflow
-CSS Tricks
+[Stack Overflow](http://stackoverflow.com/questions/19472199/why-does-mobile-first-responsive-design-tend-to-not-use-max-width-queries-alongs#19515469)
+
+[CSS Tricks](https://css-tricks.com/logic-in-media-queries/)
 
 ```
 .info {
@@ -165,7 +166,7 @@ blockquote  {
 ##SASS
 
 * OSX koala
-comments
+* comments
 * error checking
 * variables
 * imports and structure
