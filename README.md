@@ -93,27 +93,34 @@ p {
 
 * Mobile first design. 
 
-Try:
+Try: 740px
+
+* 81.25em = 1300px
+* 71.25em = 1140px
+* 61.25em = 980px
+* 46.25em = 740px
+* 22.5em = 360px
 
 ```
-@media (min-width: 22.5em) {
-	blockquote {
-		width: 100%;
-	}
+@media (max-width: 46.25em) {
+    blockquote {
+        width: 100%;
+    }
 }
 
-@media (min-width: 22.5em) {
-	.info {
-		position: static;
-		width: 100%;
-	}
+@media (max-width: 46.25em) {
+    .info {
+        position: static;
+        width: 100%;
+    }
 }
 
-@media (min-width: 22.5em) {
-	article {
-		margin-left: 1em;
-	}
+@media (max-width: 46.25em) {
+    article {
+        margin-left: 1em;
+    }
 }
+
 ```
 
 Then try implementing mobile first in CSS by making the default CSS work for small screens and the media queries work for large screen.
