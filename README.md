@@ -2,6 +2,8 @@
 
 Read of the day: [Why Learning Angular Two was Excrutiating](https://hackernoon.com/why-learning-angular-2-was-excruciating-d50dc28acc8a#.9px57nno9)
 
+Python Simple Server `python -m SimpleHTTPServer <port>`
+
 ##Base CSS
 
 box model - `box-sizing: border-box;`
@@ -165,6 +167,8 @@ blockquote  {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
+[Viewport Demo](http://daniel.deverell.com/css-files/responsive-meta-example/)
+
 ##SASS
 
 * OSX koala
@@ -242,6 +246,8 @@ blockquote  {
 
 padding: $padding*3 0;
 ```
+
+[Bootstrap SASS](https://github.com/twbs/bootstrap-sass)
 
 ##Second Page
 
