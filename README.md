@@ -296,6 +296,10 @@ $font-family: 'Lato', sans-serif;
 1. Use a [schema](http://schema.org/Recipe) to mark up this data. 
 1. Buy texts, open a Github account, install node on your laptop
 
+##Reading
+Ethan Marcotte - [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
+Dan Cederholm - [SASS for Web Designers](https://abookapart.com/products/sass-for-web-designers)
+
 ###TBD
 * modernizr `http://www.colorzilla.com/gradient-editor/ `
 * GIT and Github
