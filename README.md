@@ -280,6 +280,7 @@ padding: $padding*3 0;
 1. Create a second html recipe page that you can navigate to. The navigation should indicate which section you are in. 
 2. Use a [schema](http://schema.org/Recipe) to mark up this data. 
 3. Improve the look and feel (e.g. 'design') of the existing page for both large and small screens using SASS (use rounded corners, Google fonts, color, etc.).
+4. Buy texts, open a Github account, install node on your laptop
 
 ###TBD
 * modernizr
