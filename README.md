@@ -1,5 +1,9 @@
 #MEAN Session One
 
+[FINAL FILES from session one](http://daniel.deverell.com/mean-fall-2016/session-1-DONE.zip) (zip) 
+
+See Homework and Reading (updated) below.
+
 Read of the day: [Why Learning Angular Two was Excrutiating](https://hackernoon.com/why-learning-angular-2-was-excruciating-d50dc28acc8a#.9px57nno9)
 
 Python Simple Server `python -m SimpleHTTPServer <port>`
@@ -291,15 +295,17 @@ $font-family: 'Lato', sans-serif;
 
 ##Homework
 
-1. Improve the look and feel (e.g. 'design') of the existing page for both large and small screens using SASS (use rounded corners, Google fonts, color, etc.).
-1. Create a second html recipe page that you can navigate to. The nav bar should indicate which section you are in using color. 
+1. Improve the look and feel (e.g. 'design') of the existing page for both large and small screens using SASS (use rounded corners, Google fonts, color, etc.). Use [Koala](http://koala-app.com/) - now for Mac OR PC.
+1. Create a second html recipe page that you can navigate to. The nav bar should indicate which section you are in using color. Use the `<article>` section of the html for your recipe. Leave the navigation intact.  
 1. Use a [schema](http://schema.org/Recipe) to mark up this data. 
-1. Buy texts, open a Github account, install node on your laptop
+1. Buy the text [Write Modern Web Apps with the MEAN Stack: Mongo, Express, AngularJS, and Node.js](http://www.peachpit.com/store/write-modern-web-apps-with-the-mean-stack-mongo-express-9780133930153), create a free Github account, install [node.js](https://nodejs.org/en/) and [GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your laptop.
+
+Remember to start bringing your laptop to class.
 
 ##Reading
+
 Ethan Marcotte - [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
+
 Dan Cederholm - [SASS for Web Designers](https://abookapart.com/products/sass-for-web-designers)
 
-###TBD
-* modernizr `http://www.colorzilla.com/gradient-editor/ `
-* GIT and Github
+[Syllabus](http://mean.deverell.com/syllabus/)
