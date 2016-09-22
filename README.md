@@ -295,7 +295,7 @@ $font-family: 'Lato', sans-serif;
 
 ##Homework
 
-1. Improve the look and feel (e.g. 'design') of the existing page for both large and small screens using SASS (use rounded corners, Google fonts, color, etc.). Use [Koala](http://koala-app.com/) - now for Mac OR PC.
+1. Improve the look and feel (e.g. 'design') of the existing page for both large and small screens using SASS (use rounded corners, Google fonts, color, etc.). Use [Koala](http://koala-app.com/) - now for Mac OR PC. Examine the contents of the homeworksample directory for some ideas.
 1. Create a second html recipe page that you can navigate to. The nav bar should indicate which section you are in using color. Use the `<article>` section of the html for your recipe. Leave the navigation intact.  
 1. Use a [schema](http://schema.org/Recipe) to mark up this data. 
 1. Buy the text [Write Modern Web Apps with the MEAN Stack: Mongo, Express, AngularJS, and Node.js](http://www.peachpit.com/store/write-modern-web-apps-with-the-mean-stack-mongo-express-9780133930153), create a free Github account, install [node.js](https://nodejs.org/en/) and [GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your laptop.
